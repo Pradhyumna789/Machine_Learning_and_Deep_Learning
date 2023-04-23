@@ -11,4 +11,4 @@ This repository is created with an intent to help anyone learn machine learning 
 
 5. Learn multivariable regression and implement it on an imported dummy sklearn dataset.
 
-6. Code the Gradient-Descent-Optimization-Algorithm for N features.
+6. Code the Gradient-Descent-Optimization-Algorithm for N features - (Generic Gradient Descent).
