@@ -7,7 +7,7 @@ This repository is created with an intent to help anyone learn machine learning 
 
 3. Learn Linear Regression.
 
-4. Do a small project by implementing Linear Regression on a dummy sklearn dataset.
+4. Implement Linear Regression on a dummy sklearn dataset.
 
 5. Learn multivariable regression and implement it on an imported dummy sklearn dataset.
 
