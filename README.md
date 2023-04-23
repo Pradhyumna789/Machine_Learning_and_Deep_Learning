@@ -8,3 +8,7 @@ This repository is created with an intent to help anyone learn machine learning 
 3. Now hop on to Linear Regression and implement it on a dummy csv data file available in scikit-learn.
 
 4. Do a small project by implementing Linear Regression on a dummy sklearn dataset.
+
+5. Learn multivariable regression and implement it on an imported dummy sklearn dataset.
+
+6. Code the Gradient-Descent-Optimization-Algorithm for N features.
