@@ -5,7 +5,7 @@ This repository is created with an intent to help anyone learn machine learning 
 
 2. Introduction follows with an intro to loading a sample dataset from scikit learn and making sense of it.
 
-3. Now hop on to Linear Regression and implement it on a dummy csv data file available in scikit-learn.
+3. Learn Linear Regression.
 
 4. Do a small project by implementing Linear Regression on a dummy sklearn dataset.
 
