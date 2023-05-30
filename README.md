@@ -17,4 +17,4 @@ This repository is created with an intent to help anyone learn machine learning 
     Binary classification logistic regression - breast cancer dataset
     multi_class logistic regression - iris dataset
     
-8. Classification Measures - Now let's quickly look at confusion matrix by applying Logistic Regression on the iris dataset.
+8. Classification Measures - These are used to test the performance of classification algorithms just like we used the cost function to test the performance of regression algorithms - Now let's quickly look at confusion matrix by applying Logistic Regression on the iris dataset.
