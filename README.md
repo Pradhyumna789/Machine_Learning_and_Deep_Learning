@@ -1,6 +1,8 @@
 # Machine_Learning
 This repository is created with an intent to help anyone learn machine learning from scratch.
 
+*** The (Detailed Notes for every topic) directory contains content in detail for every concept. Make sure to check it out to understand any concept in detail.
+
 1. Start off learning and getting comfortable with Python libraries - Numpy, Pandas, and Matplotlib which are used extensively in Machine Learning.
 
 2. Introduction follows with an intro to loading a sample dataset from scikit learn and making sense of it.
