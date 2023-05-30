@@ -16,3 +16,5 @@ This repository is created with an intent to help anyone learn machine learning 
 7. Code Logistic Regression from scratch and implement on two dummy datasets:
     Binary classification logistic regression - breast cancer dataset
     multi_class logistic regression - iris dataset
+    
+8. Classification Measures - Now let's quickly look at confusion matrix by applying Logistic Regression on the iris dataset.
