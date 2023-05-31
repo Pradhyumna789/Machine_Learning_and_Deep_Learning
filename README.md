@@ -3,6 +3,25 @@ This repository is created with an intent to help anyone learn machine learning 
 
 *** The (Detailed Notes for every topic) directory contains content in detail for every concept. Make sure to check it out to understand any concept in detail.
 
+Order of topics:
+1. Linear Regression
+2. Logistic Regression
+3. Classification Measures
+4. Decision Trees
+5. Random Forests
+6. Naive Bayes
+7. KNN
+8. SVM
+9. PCA
+10. NLP
+11. Neural Networks
+12. Tensor Flow
+13. Keras
+14. CNN
+15. RNN
+16. LSTM
+17. Unsupervised Learning
+
 1. Start off learning and getting comfortable with Python libraries - Numpy, Pandas, and Matplotlib which are used extensively in Machine Learning.
 
 2. Introduction follows with an intro to loading a sample dataset from scikit learn and making sense of it.
