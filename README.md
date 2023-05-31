@@ -22,6 +22,8 @@ Order of topics:
 16. LSTM
 17. Unsupervised Learning
 
+
+
 1. Start off learning and getting comfortable with Python libraries - Numpy, Pandas, and Matplotlib which are used extensively in Machine Learning.
 
 2. Introduction follows with an intro to loading a sample dataset from scikit learn and making sense of it.
