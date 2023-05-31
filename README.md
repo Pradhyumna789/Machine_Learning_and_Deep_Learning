@@ -12,16 +12,16 @@ Order of topics:
 - Decision Trees
 - Random Forests
 - Naive Bayes
-- KNN
-- SVM
-- PCA
-- NLP
+- KNN(K-Nearest Neighbour)
+- SVM(Support vector machine)
+- PCA(Principal component analysis)
+- NLP(Natural language processing)
 - Neural Networks
 - Tensor Flow
 - Keras
-- CNN
-- RNN
-- LSTM
+- CNN(Convolutional neural network)
+- RNN(Recurrent neural network)
+- LSTM(Long short term memory)
 - Unsupervised Learning
 
 
