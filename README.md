@@ -1,5 +1,5 @@
 # Machine_Learning
-This repository is created with an intent to help anyone learn machine learning from scratch.
+This repository is created with an intent to help anyone learn Machine-Learning and Deep-Learning from scratch.
 
 *** The (Detailed Notes for every topic) directory contains content in detail for every concept. Make sure to check it out to understand any concept in detail.
 
