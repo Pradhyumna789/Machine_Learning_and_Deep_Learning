@@ -5,6 +5,7 @@ This repository is created with an intent to help anyone learn machine learning 
 
 Order of topics:
 - Linear Regression
+- Multivariable Regression and Gradient Descent
 - Feature Scaling
 - Logistic Regression
 - Classification Measures
