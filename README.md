@@ -4,23 +4,23 @@ This repository is created with an intent to help anyone learn machine learning 
 *** The (Detailed Notes for every topic) directory contains content in detail for every concept. Make sure to check it out to understand any concept in detail.
 
 Order of topics:
-1. Linear Regression
-2. Logistic Regression
-3. Classification Measures
-4. Decision Trees
-5. Random Forests
-6. Naive Bayes
-7. KNN
-8. SVM
-9. PCA
-10. NLP
-11. Neural Networks
-12. Tensor Flow
-13. Keras
-14. CNN
-15. RNN
-16. LSTM
-17. Unsupervised Learning
+- Linear Regression
+- Logistic Regression
+- Classification Measures
+- Decision Trees
+- Random Forests
+- Naive Bayes
+- KNN
+- SVM
+- PCA
+- NLP
+- Neural Networks
+- Tensor Flow
+- Keras
+- CNN
+- RNN
+- LSTM
+- Unsupervised Learning
 
 
 
