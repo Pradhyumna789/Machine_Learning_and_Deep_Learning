@@ -4,6 +4,9 @@ This repository is created with an intent to help anyone learn Machine-Learning 
 *** The (Detailed Notes for every topic) directory contains content in detail for every concept. Make sure to check it out to understand any concept in detail.
 
 Order of topics:
+- Numpy
+- Pandas
+- Matplotlib
 - Linear Regression
 - Multivariable Regression and Gradient Descent
 - Feature Scaling
