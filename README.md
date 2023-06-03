@@ -7,6 +7,7 @@ Order of topics:
 - Numpy
 - Pandas
 - Matplotlib
+- Introduction - IntroToML
 - Linear Regression
 - Multivariable Regression and Gradient Descent
 - Feature Scaling
