@@ -4,9 +4,7 @@ This repository is created with an intent to help anyone learn Machine-Learning 
 *** The Repo contains content for every concept in detail. Make sure to open the Jupyter-Notebook files in your computers to refer.***
 
 Recommending order of reading:
-- Numpy
-- Pandas
-- Matplotlib
+- Important Python Libraries -> Numpy, Pandas, and Matplotlib
 - Introduction - IntroToML
 - Linear Regression
 - Multivariable Regression and Gradient Descent
