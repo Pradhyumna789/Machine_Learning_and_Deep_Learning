@@ -28,3 +28,32 @@ Recommended order of reading:
 - RNN(Recurrent neural network)
 - LSTM(Long short term memory)
 - Unsupervised Learning
+
+
+Machine Learning:
+
+- Linear Regression
+- Multivariable Regression and Gradient Descent
+- Feature Scaling
+- Logistic Regression
+- Classification Measures
+- Decision Trees
+- Random Forests
+- Naive Bayes
+- KNN (K-Nearest Neighbour)
+- SVM (Support vector machine)
+- PCA (Principal component analysis)
+- Unsupervised Learning
+
+
+Deep Learning:
+
+- Neural Networks
+- Tensor Flow
+- Keras
+- CNN (Convolutional neural network)
+- RNN (Recurrent neural network)
+- LSTM (Long short term memory)
+
+
+NLP - Field of study that focuses on the interaction between humans and computers through natural language. Both Machine Learning and Deep Learning algorithms can be applied to NLP tasks.
