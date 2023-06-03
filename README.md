@@ -8,6 +8,7 @@ To learn Python you can refer to this Repo - https://github.com/Pradhyumna789/Py
 Recommended order of reading:
 - Important Python Libraries -> Numpy, Pandas, and Matplotlib
 - Introduction - IntroToML
+- Using Random State 
 - Linear Regression
 - Multivariable Regression and Gradient Descent
 - Feature Scaling
