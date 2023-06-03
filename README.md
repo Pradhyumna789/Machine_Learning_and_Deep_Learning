@@ -3,6 +3,8 @@ This repository is created with an intent to help anyone learn Machine-Learning 
 
 *** The Repo contains content for every concept in detail. Make sure to open the Jupyter-Notebook files in your computers to refer.***
 
+To learn Python you can refer to this Repo - https://github.com/Pradhyumna789/Python
+
 Recommended order of reading:
 - Important Python Libraries -> Numpy, Pandas, and Matplotlib
 - Introduction - IntroToML
